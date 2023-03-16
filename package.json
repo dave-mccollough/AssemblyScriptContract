@@ -1,0 +1,22 @@
+{
+  "name": "assemblyscriptcontract",
+  "version": "1.0.0",
+  "description": "My first smart contract",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dave-mccollough/AssemblyScriptContract.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dave-mccollough/AssemblyScriptContract/issues"
+  },
+  "homepage": "https://github.com/dave-mccollough/AssemblyScriptContract#readme",
+  "devDependencies": {
+    "near-sdk-as": "^3.2.3"
+  }
+}
