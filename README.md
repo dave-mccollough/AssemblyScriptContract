@@ -1,1 +1,1 @@
-# near-blockchain-notes
+# Near Blockchain and dApp Notes
