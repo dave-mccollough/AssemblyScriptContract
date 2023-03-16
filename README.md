@@ -1,1 +1,1 @@
-# Near Blockchain and dApp Notes
+# AssemblyScript Smart Contract
